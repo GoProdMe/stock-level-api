@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"flag"
 	"log"
-	"omega-stock-api/cmd/models"
+	"stock-level-api/cmd/models"
 
 	_ "github.com/go-sql-driver/mysql" // init() function required, so alias with blank identifier
 )
